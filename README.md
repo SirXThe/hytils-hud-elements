@@ -9,7 +9,7 @@ Hunger, Armor
 None
 
 ## Murder Mystery (all modes)
-Hunger, Armor
+Health, Hunger, Armor
 
 ## Housing
 Health?, Hunger?, Armor?
