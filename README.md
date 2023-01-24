@@ -24,7 +24,7 @@ Health, Hunger, Armor
 ### TNT TAG
 Health, Hunger, Armor
 ### WIZARDS
-Health, Hunger, Armor
+Armor
 
 ## ARCADE
 ### HITW
