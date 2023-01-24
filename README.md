@@ -28,33 +28,33 @@ Armor
 
 ## ARCADE
 ### HITW
-Health, Hunger, Armor
+Health, Hunger
 ### Football
 Health, Hunger, Armor
 ### Bounty Hunters
-Hunger, Armor
+Hunger
 ### Pixel Painters
-Health, Hunger, Armor
+Health, Hunger
 ### Creeper Attack
 Hunger
 ### Farm Hunt
 Hunger, Armor
 ### Dragon Wars
-idk
+Hunger
 ### Ender Spleef
 Health, Hunger, Armor
 ### Galaxy Wars
 Hunger
 ### Throw Out
-idk
+Health, Hunger
 ### Blocking Dead
-idk
+None
 ### CTW
 Hunger
 ### Party Games
 None
 ### Zombies
-Hunger, Armor
+Hunger
 ### Pixel Party
 Health, Hunger, Armor
 ### Hide and Seek
