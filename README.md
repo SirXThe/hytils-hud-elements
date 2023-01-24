@@ -58,7 +58,7 @@ Hunger
 ### Pixel Party
 Health, Hunger, Armor
 ### Hide and Seek
-idk
+Hunger, Armor
 ### Hypixel Says
 None
 ### Mini Walls
