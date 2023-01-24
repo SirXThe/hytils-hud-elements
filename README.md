@@ -42,9 +42,9 @@ Hunger, Armor
 ### Dragon Wars
 idk
 ### Ender Spleef
-idk
+Health, Hunger, Armor
 ### Galaxy Wars
-idk
+Hunger
 ### Throw Out
 idk
 ### Blocking Dead
@@ -67,8 +67,8 @@ Hunger
 ## Build Battle (all modes)
 Health, Hunger, Armor
 
-## Duels
-I don't play Duels, pls help
+## Duels (varies per mode)
+Health (Parkour only), Hunger, Armor (all except Meetup and Skywars)
 
 ## UHC (all modes)
 None
