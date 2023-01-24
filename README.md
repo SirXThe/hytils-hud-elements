@@ -106,4 +106,4 @@ None (Resource Pack already hiding)
 None
 
 ## Atlas?
-None
+Health, Hunger, Armor
