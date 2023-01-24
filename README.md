@@ -12,7 +12,7 @@ None
 Health, Hunger, Armor
 
 ## Housing
-Health?, Hunger, Armor
+Health?, Hunger?, Armor?
 
 ## TNT Games
 ### Bow Spleef
@@ -54,7 +54,7 @@ Hunger
 ### Party Games
 None
 ### Zombies
-Hunger
+Hunger, Armor
 ### Pixel Party
 Health, Hunger, Armor
 ### Hide and Seek
@@ -77,7 +77,7 @@ None
 ### Arena
 None
 ### VampireZ
-Armor, Hunger
+Hunger
 ### TKR
 None (Resource Pack already hiding)
 ### Quake
