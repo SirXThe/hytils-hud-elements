@@ -9,7 +9,7 @@ Hunger, Armor
 None
 
 ## Murder Mystery (all modes)
-Health, Hunger, Armor
+Hunger, Armor
 
 ## Housing
 Health?, Hunger?, Armor?
@@ -77,7 +77,7 @@ None
 ### Arena
 None
 ### VampireZ
-Hunger
+None
 ### TKR
 None (Resource Pack already hiding)
 ### Quake
@@ -105,5 +105,5 @@ None (Resource Pack already hiding)
 ## Blitz SG
 None
 
-## Atlas?
+## Atlas/Replay
 Health, Hunger, Armor
