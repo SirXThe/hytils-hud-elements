@@ -36,7 +36,7 @@ Hunger, Armor
 ### Pixel Painters
 Health, Hunger, Armor
 ### Creeper Attack
-Health, Hunger, Armor
+Hunger
 ### Farm Hunt
 Hunger, Armor
 ### Dragon Wars
